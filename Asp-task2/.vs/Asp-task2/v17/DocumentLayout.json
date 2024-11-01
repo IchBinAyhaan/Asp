@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Migrations\\20241101205826_ContactCardAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Asp-task2\\Migrations\\20241101205826_ContactCardAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\entities\\contactcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\entities\\contactcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\entities\\chooseus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\entities\\chooseus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\models\\contact\\contactcardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\models\\contact\\contactcardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\models\\contact\\contactindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\models\\contact\\contactindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\models\\pricing\\pricingindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\models\\pricing\\pricingindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\models\\home\\homeindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\models\\home\\homeindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\models\\about\\chooseusvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\models\\about\\chooseusvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\models\\about\\teammembervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\models\\about\\teammembervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\models\\pricing\\pricingcardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\models\\pricing\\pricingcardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\entities\\pricingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\entities\\pricingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\entities\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\entities\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Migrations\\20241101203356_PricingCardAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Asp-task2\\Migrations\\20241101203356_PricingCardAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\models\\home\\homeworkvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\models\\home\\homeworkvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\entities\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\entities\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\migrations\\20241101191443_homeworksadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\migrations\\20241101191443_homeworksadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\migrations\\20241101181940_chooseussadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\migrations\\20241101181940_chooseussadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Migrations\\20241101191159_HomeWorkAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Asp-task2\\Migrations\\20241101191159_HomeWorkAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|c:\\users\\darya\\desktop\\ayhan\\ayhan13\\asp-task2\\asp-task2\\models\\about\\aboutindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E81B2F0-6935-4CDD-818F-04D99AB054E1}|Asp-task2\\Asp-task2.csproj|solutionrelative:asp-task2\\models\\about\\aboutindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241101205826_ContactCardAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Migrations\\20241101205826_ContactCardAdded.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Migrations\\20241101205826_ContactCardAdded.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Migrations\\20241101205826_ContactCardAdded.cs",
+              "RelativeToolTip": "Asp-task2\\Migrations\\20241101205826_ContactCardAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:58:26.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Asp-task2\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:11:05.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Asp-task2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:37:42.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Asp-task2\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:00:44.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp-task2\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Asp-task2\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T20:49:51.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp-task2\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Asp-task2\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T18:43:53.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactCard.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Entities\\ContactCard.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Entities\\ContactCard.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Entities\\ContactCard.cs",
+              "RelativeToolTip": "Asp-task2\\Entities\\ContactCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:53:39.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Asp-task2\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:03:13.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChooseUs.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Entities\\ChooseUs.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Entities\\ChooseUs.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Entities\\ChooseUs.cs",
+              "RelativeToolTip": "Asp-task2\\Entities\\ChooseUs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:15:56.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactCardVM.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\Contact\\ContactCardVM.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Models\\Contact\\ContactCardVM.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\Contact\\ContactCardVM.cs",
+              "RelativeToolTip": "Asp-task2\\Models\\Contact\\ContactCardVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:51:49.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\Contact\\ContactIndexVM.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Models\\Contact\\ContactIndexVM.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\Contact\\ContactIndexVM.cs",
+              "RelativeToolTip": "Asp-task2\\Models\\Contact\\ContactIndexVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:51:26.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\Home\\HomeIndexVM.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Models\\Home\\HomeIndexVM.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\Home\\HomeIndexVM.cs",
+              "RelativeToolTip": "Asp-task2\\Models\\Home\\HomeIndexVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:33:25.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChooseUsVm.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\About\\ChooseUsVm.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Models\\About\\ChooseUsVm.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\About\\ChooseUsVm.cs",
+              "RelativeToolTip": "Asp-task2\\Models\\About\\ChooseUsVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:50:21.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeamMemberVM.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\About\\TeamMemberVM.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Models\\About\\TeamMemberVM.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\About\\TeamMemberVM.cs",
+              "RelativeToolTip": "Asp-task2\\Models\\About\\TeamMemberVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:33:44.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PricingIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\Pricing\\PricingIndexVM.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Models\\Pricing\\PricingIndexVM.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\Pricing\\PricingIndexVM.cs",
+              "RelativeToolTip": "Asp-task2\\Models\\Pricing\\PricingIndexVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:17:24.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp-task2\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "Asp-task2\\Views\\Work\\Index.cshtml",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T20:49:28.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PricingCardVM.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\Pricing\\PricingCardVM.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Models\\Pricing\\PricingCardVM.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\Pricing\\PricingCardVM.cs",
+              "RelativeToolTip": "Asp-task2\\Models\\Pricing\\PricingCardVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:17:45.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Entities\\TeamMember.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Entities\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Entities\\TeamMember.cs",
+              "RelativeToolTip": "Asp-task2\\Entities\\TeamMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:03:10.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PricingCard.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Entities\\PricingCard.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Entities\\PricingCard.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Entities\\PricingCard.cs",
+              "RelativeToolTip": "Asp-task2\\Entities\\PricingCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:23:13.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Asp-task2\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:36:41.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "Asp-task2\\Controllers\\PricingController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:24:20.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Views\\Pricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp-task2\\Views\\Pricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Views\\Pricing\\Index.cshtml",
+              "RelativeToolTip": "Asp-task2\\Views\\Pricing\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T20:15:41.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asp-task2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Asp-task2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T18:32:02.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241101203356_PricingCardAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Migrations\\20241101203356_PricingCardAdded.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Migrations\\20241101203356_PricingCardAdded.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Migrations\\20241101203356_PricingCardAdded.cs",
+              "RelativeToolTip": "Asp-task2\\Migrations\\20241101203356_PricingCardAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:33:56.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "Asp-task2\\Controllers\\WorkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:12:56.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeWorkVM.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\Home\\HomeWorkVM.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Models\\Home\\HomeWorkVM.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\Home\\HomeWorkVM.cs",
+              "RelativeToolTip": "Asp-task2\\Models\\Home\\HomeWorkVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:33:42.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeWork.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Entities\\HomeWork.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Entities\\HomeWork.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Entities\\HomeWork.cs",
+              "RelativeToolTip": "Asp-task2\\Entities\\HomeWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:10:30.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241101191443_HomeWorksAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Migrations\\20241101191443_HomeWorksAdded.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Migrations\\20241101191443_HomeWorksAdded.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Migrations\\20241101191443_HomeWorksAdded.cs",
+              "RelativeToolTip": "Asp-task2\\Migrations\\20241101191443_HomeWorksAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:14:44.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241101181940_ChooseUssAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Migrations\\20241101181940_ChooseUssAdded.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Migrations\\20241101181940_ChooseUssAdded.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Migrations\\20241101181940_ChooseUssAdded.cs",
+              "RelativeToolTip": "Asp-task2\\Migrations\\20241101181940_ChooseUssAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:15:44.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241101191159_HomeWorkAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Migrations\\20241101191159_HomeWorkAdded.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Migrations\\20241101191159_HomeWorkAdded.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Migrations\\20241101191159_HomeWorkAdded.cs",
+              "RelativeToolTip": "Asp-task2\\Migrations\\20241101191159_HomeWorkAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:11:59.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Asp-task2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Asp-task2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T19:03:00.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Asp-task2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Asp-task2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T19:02:59.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Program.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Program.cs",
+              "RelativeToolTip": "Asp-task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:02:56.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AboutIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\About\\AboutIndexVM.cs",
+              "RelativeDocumentMoniker": "Asp-task2\\Models\\About\\AboutIndexVM.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan\\Ayhan13\\Asp-task2\\Asp-task2\\Models\\About\\AboutIndexVM.cs",
+              "RelativeToolTip": "Asp-task2\\Models\\About\\AboutIndexVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:33:06.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
